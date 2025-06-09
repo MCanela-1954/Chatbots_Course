@@ -1,4 +1,4 @@
-# [PROMPT-2.1] Math word problem
+# [CHAT-2.1] Math word problem
 
 ## Input
 
