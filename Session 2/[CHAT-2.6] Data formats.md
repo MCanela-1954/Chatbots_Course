@@ -1,4 +1,4 @@
-# [CHAT-08] Data formats
+# [CHAT-2.6] Data formats
 
 ## Input
 
