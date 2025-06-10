@@ -1,0 +1,34 @@
+ChatGPT (no sign up)
+====================
+https://chatgpt.com
+
+ChatGPT (sign up)
+=================
+https://auth.openai.com/create-account
+https://auth.openai.com/log-in
+email: 
+password: 
+
+Gemini (use gmail account)
+======================
+https://gemini.google.com/app
+https://aistudio.google.com/app/apikey
+GOOGLE_API_KEY: 
+
+DeepSeek (sign up)
+==================
+https://chat.deepseek.com/sign_up
+https://chat.deepseek.com/sign_in
+email: 
+password: 
+
+Groq (create account)
+=====================
+https://console.groq.com/home
+email: 
+email confirmation
+GROQ_API_KEY: 
+
+LM Studio (install)
+===================
+https://lmstudio.ai
