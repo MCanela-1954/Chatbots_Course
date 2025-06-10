@@ -10,7 +10,7 @@ email:
 password: 
 
 Gemini (use gmail account)
-======================
+==========================
 https://gemini.google.com/app
 https://aistudio.google.com/app/apikey
 GOOGLE_API_KEY: 
