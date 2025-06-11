@@ -6,8 +6,8 @@ Your task is to help a marketing team create a description for a retail website 
 
 Write a product description based on the information provided in the technical specifications below. Maximum length: 50 words.
 
-<fact_sheet>
 ```
+<fact_sheet>
 {
     "Display": "Amazon's 7-inch Paperwhite display technology with built-in front light, 300 ppi, optimized font technology, 16-level gray scale.",
     "Size": "127.5 x 176.7 x 7.8 mm",
@@ -21,8 +21,8 @@ Write a product description based on the information provided in the technical s
     "Accessibility Features": "VoiceView screen reader, available over Bluetooth audio, provides spoken feedback allowing you to navigate your device and read books with text-to-speech (available in English only). Kindle Paperwhite also includes the ability to have dark mode, adjust font size, font face, line spacing, and margins. Learn more about Accessibility for Kindle.",
     "Content Formats Supported": "Kindle Format 8 (AZW3), Kindle (AZW), TXT, PDF, unprotected MOBI, PRC natively; PDF, DOCX, DOC, HTML, EPUB, TXT, RTF, JPEG, GIF, PNG, BMP through conversion; Audible audio format (AAX). Learn more about supported file types for personal documents."
 }
-```
 </fact_sheet>
+```
 
 ## Output (Gemini 2.0)
 
@@ -38,8 +38,8 @@ This description highlights key features like the high-resolution display, long 
 
 Your task is to display the information contained in the following fact sheet in a Markdown table.
 
-<fact_sheet>
 ```
+<fact_sheet>
 {
     "Display": "Amazon's 7-inch Paperwhite display technology with built-in front light, 300 ppi, optimized font technology, 16-level gray scale.",
     "Size": "127.5 x 176.7 x 7.8 mm",
@@ -53,8 +53,8 @@ Your task is to display the information contained in the following fact sheet in
     "Accessibility Features": "VoiceView screen reader, available over Bluetooth audio, provides spoken feedback allowing you to navigate your device and read books with text-to-speech (available in English only). Kindle Paperwhite also includes the ability to have dark mode, adjust font size, font face, line spacing, and margins. Learn more about Accessibility for Kindle.",
     "Content Formats Supported": "Kindle Format 8 (AZW3), Kindle (AZW), TXT, PDF, unprotected MOBI, PRC natively; PDF, DOCX, DOC, HTML, EPUB, TXT, RTF, JPEG, GIF, PNG, BMP through conversion; Audible audio format (AAX). Learn more about supported file types for personal documents."
 }
-```
 </fact_sheet>
+```
 
 ## Output (Gemini 2.0)
 
