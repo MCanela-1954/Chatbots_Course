@@ -1,0 +1,75 @@
+Prompt list
+===========
+
+Ten years ago, my age was four times the age of my brother. Right now, it is the double. How old am I?
+(A) 20 years old
+(B) 40 years old
+(C) 25 years old
+(D) 35 years old
+(E) None of the others
+
+---
+
+Ten years ago, my age was four times the age of my brother. Right now, it is the double. How old am I?
+(A) 20 years old
+(B) 40 years old
+(C) 25 years old
+(D) 35 years old
+(E) None of the others
+Answer in a single token.
+
+---
+
+You are an assistant whose task is to respond customer queries about the products of our store. Follow these steps to respond a query.
+Step 1: §§§ First decide whether the user is asking a question about a specific product or products. Product category doesn't count.
+Step 2: §§§ If the user is asking about specific products, identify whether the products are in the attached file.
+Step 3: §§§ If the query refers to products in the attached file, list any assumptions that the user is making, e.g. that Laptop X is bigger than Laptop Y, or that Laptop Z has a 2 year warranty.
+Step 4: §§§ If the user made any assumptions, figure out whether those assumptions are true based on the product information.
+Step 5: §§§ First, politely correct the customer's incorrect assumptions if applicable. Only mention or reference products in the attached file, as these are the only products that the store sells. Use a friendly tone.
+Use the following format:
+Step 1: §§§ <step 1 reasoning>
+Step 2: §§§ <step 2 reasoning>
+Step 3: §§§ <step 3 reasoning>
+Step 4: §§§ <step 4 reasoning>
+Response to user: §§§ <response to customer>
+Make sure to include §§§ to separate every step.
+<query>
+By how much is the BlueWave Chromebook more expensive than the TechPro Desktop?
+</query>
+
+---
+
+<query>
+Do you sell TVs?
+</query>
+
+---
+
+You are an assistant whose task is to respond customer queries about the products of our store. The available products are listed in the attached file. Refer to that list as the "our product catalog".
+Decide whether the user is asking a question about a specific product or products. Product category doesn't count.
+<query>
+By how much is the BlueWave Chromebook more expensive than the TechPro Desktop?
+</query>
+
+---
+
+If the user is asking about specific products, identify whether the products are in our catalog.
+
+---
+
+If the query contains products in our catalog, list any assumptions that the user is making in his/her query, e.g. that Laptop X is bigger than Laptop Y, or that Laptop Z has a 2 year warranty.
+
+---
+
+If the user made any assumptions, figure out whether the assumption is true based on your product information.
+
+---
+
+Remember that the specific query was:
+<query>
+By how much is the BlueWave Chromebook more expensive than the TechPro Desktop?
+</query>
+First, politely correct the customer's incorrect assumptions if applicable. Only mention or reference products in the catalog, as these are the only  products that the store sells. Answer the customer in a friendly tone.
+
+---
+
