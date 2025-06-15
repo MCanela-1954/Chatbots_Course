@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Reviews of restaurants are posted in the Yelp's website, `https://www.yelp.com`. The following five examples, formatted as JSON objects, have been extracted from the Yelp page of a popular Spanish restaurant, Socarrat Paella Bar, in the Chelsea are of in New York City, `https://www.yelp.com/biz/socarrat-paella-bar-chelsea-new-york-3`.
+Reviews of restaurants are posted in the Yelp's website, `https://www.yelp.com`. The following five examples, formatted as JSON objects, have been extracted from the Yelp page of a popular Spanish restaurant, Socarrat Paella Bar, in New York City's Chelsea neighborhood, `https://www.yelp.com/biz/socarrat-paella-bar-chelsea-new-york-3`.
 
 ```
 {
