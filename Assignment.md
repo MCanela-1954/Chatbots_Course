@@ -34,4 +34,6 @@ Reviews of restaurants are posted in the Yelp's website, `https://www.yelp.com`.
 
 ## Task
 
-The task is to engineer a prompt for a chat app (*e.g*. ChatGPT, Gemini, etc), that extracts short comments on specific aspects of the customer's experience. The desired format for the output would be a JSON object containing the "author" key and some additional keys, such as "price", "food", "atmosphere", "service" or "dishes_mentioned". 
+As part of your responsibilities as VP of Marketing, you are required to present a quarterly analysis of the comments the restaurant receives in social media.
+
+The task is to engineer a prompt for a chat app (e.g. ChatGPT, Gemini, etc), that extracts short comments on specific aspects of the customer's experience. The desired format for the output would be a JSON object containing the "author" key and some additional keys, such as "price", "food", "atmosphere", "service" or "dishes_mentioned". The objective is to store all this information in a format that facilitates subsequent analysis.
